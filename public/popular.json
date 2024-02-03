@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "platform": "Adobe",
+    "sector": "Design",
+    "title": "UI Designer",
+    "description": "Develop and maintain software applications, write code, and troubleshoot problems.",
+    "requirements": ["Bachelor's degree in Computer Science", "Programming skills in Java, Python, or C++", "Experience with software development life cycle"],
+    "location": "Various",
+    "salary": "$80,000 - $120,000 per year",
+    "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+    "post_time": "1 day ago",
+    "aboutUs": {
+      "description": "We are a creative powerhouse within the fintech industry, crafting user-centric experiences to redefine digital design. Rooted in innovation, we seek a UI Designer to join our dynamic team at the forefront of transforming financial advisory interfaces. Embrace the opportunity to blend artistry with technology in a collaborative and cutting-edge environment.",
+      "positionOverview": {
+        "description": "As a UI Designer, you will be a pivotal force in shaping the visual aesthetics of our digital products. Collaborate closely with cross-functional teams to conceptualize, design, and implement intuitive and visually stunning user interfaces. Your role demands proficiency in design tools, an eye for detail, and a passion for creating seamless user experiences."
+      },
+      "responsibilities": [
+        "Lead the design and implementation of user interfaces for our financial advisory software.",
+        "Collaborate with development teams to ensure the alignment of visual design intent with technical feasibility.",
+        "Contribute to the creation and maintenance of design systems for consistent user experiences.",
+        "Iterate on designs based on user feedback and testing.",
+        "Stay updated on design trends and emerging technologies to drive continuous improvement."
+      ],
+      "qualifications": {
+        "skills": [
+          "Proven experience as a UI Designer with a strong portfolio showcasing design proficiency.",
+          "Expertise in design tools such as Adobe XD, Sketch, or Figma.",
+          "Understanding of UX principles and best practices.",
+          "Strong communication skills to articulate design concepts and rationale."
+        ]
+      },
+      "educationAndExperience": {
+        "requirements": "Bachelor’s degree in Design, Human-Computer Interaction, or a related field.",
+        "experience": "3+ years of professional experience in UI/UX design."
+      },
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to revolutionary fintech design.",
+        "Collaborative and creative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about redefining user experiences in the fintech sector and possess the required skills and vision, we invite you to apply and shape the future of digital design with us."
+    }
+  },
+  {
+    "id": 2,
+    "platform": "Microsoft",
+    "sector": "Software Development",
+    "title": "Software Developer",
+    "description": "Create and modify computer programs, collaborate with team members, and troubleshoot software issues.",
+    "requirements": ["Bachelor's degree in Computer Science or related field", "Proficiency in programming languages like Java or C#", "Knowledge of software development methodologies"],
+    "location": "Redmond, WA",
+    "salary": "$90,000 - $130,000 per year",
+    "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+    "post_time": "4 days ago",
+    "aboutUs": {
+      "description": "We are a driving force in the software development industry, committed to excellence, innovation, and cutting-edge technology. Join our dynamic team at Microsoft, where your expertise as a Software Developer will play a key role in creating and modifying computer programs. Collaborate with talented team members, troubleshoot software issues, and contribute to the impactful technology that defines Microsoft's presence in the industry.",
+      "positionOverview": {
+        "description": "As a Software Developer, you will be at the forefront of shaping the functionality of our digital products. Collaborate closely with cross-functional teams to conceptualize, code, and implement efficient and reliable software solutions. Your role demands proficiency in programming languages like Java or C#, along with a deep understanding of software development methodologies."
+      },
+      "responsibilities": [
+        "Create and modify computer programs to meet project requirements.",
+        "Collaborate with team members to ensure the alignment of software design with project goals.",
+        "Troubleshoot software issues and implement effective solutions.",
+        "Contribute to the continuous improvement of software development processes.",
+        "Stay updated on industry trends and emerging technologies to drive innovation."
+      ],
+      "qualifications": {
+        "skills": [
+          "Bachelor's degree in Computer Science or a related field.",
+          "Proficiency in programming languages like Java or C#.",
+          "Knowledge of software development methodologies.",
+          "Strong problem-solving and analytical skills."
+        ]
+      },
+      "educationAndExperience": {
+        "requirements": "Bachelor’s degree in Computer Science or a related field.",
+        "experience": "3+ years of professional experience in software development."
+      },
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to be part of cutting-edge software development.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about pushing the boundaries of software development and possess the required skills and vision, we invite you to apply and contribute to the future of technology with us."
+    }
+  },
+  {
+    "id": 3,
+    "platform": "Google",
+    "sector": "Data Science",
+    "title": "Data Analyst",
+    "description": "Collect, process, and analyze data to help companies make informed business decisions.",
+    "requirements": ["Bachelor's degree in Statistics, Mathematics, or related field", "Experience with data analysis tools like Python or R", "Strong analytical and problem-solving skills"],
+    "location": "Mountain View, CA",
+    "salary": "$85,000 - $110,000 per year",
+    "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+    "post_time": "1 month ago",
+    "aboutUs": {
+      "description": "At the forefront of data-driven decision-making, we are a powerhouse in the field of data science. Join our team at Google, where we are dedicated to collecting, processing, and analyzing data to empower companies in making informed business decisions. As a Data Analyst, you will play a pivotal role in transforming raw data into actionable insights, contributing to Google's commitment to innovation and excellence.",
+      "positionOverview": {
+        "description": "As a Data Analyst, you will be instrumental in the analysis of vast datasets to extract meaningful patterns and trends. Collaborate closely with cross-functional teams to understand business needs, design effective data analysis strategies, and present compelling insights. Your role demands expertise in data analysis tools like Python or R, along with strong analytical and problem-solving skills."
+      },
+      "responsibilities": [
+        "Collect, process, and analyze large datasets to extract valuable insights.",
+        "Collaborate with teams to understand business requirements and goals.",
+        "Design and implement effective data analysis strategies.",
+        "Present findings and insights to stakeholders in a clear and compelling manner.",
+        "Stay updated on data analysis tools and techniques to drive continuous improvement."
+      ],
+      "qualifications": {
+        "skills": [
+          "Bachelor's degree in Statistics, Mathematics, or a related field.",
+          "Experience with data analysis tools like Python or R.",
+          "Strong analytical and problem-solving skills.",
+          "Excellent attention to detail and data accuracy."
+        ]
+      },
+      "educationAndExperience": {
+        "requirements": "Bachelor’s degree in Statistics, Mathematics, or a related field.",
+        "experience": "2+ years of professional experience in data analysis."
+      },
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to cutting-edge data science at Google.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about leveraging data to drive business decisions and possess the required skills and vision, we invite you to apply and be a part of shaping the future of data science with us."
+    }
+  },
+  {
+    "id": 4,
+    "platform": "Amazon",
+    "sector": "Logistics",
+    "title": "Supply Chain Manager",
+    "description": "Optimize supply chain processes, manage inventory, and ensure timely delivery of products.",
+    "requirements": ["Bachelor's degree in Logistics, Supply Chain Management, or related field", "Experience in supply chain operations", "Strong organizational and communication skills"],
+    "location": "Seattle, WA",
+    "salary": "$100,000 - $130,000 per year",
+    "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+    "post_time": "6 days ago",
+    "aboutUs": {
+      "description": "At the heart of optimizing supply chain processes, we are a key player in the logistics industry. Join our team at Amazon, where we are dedicated to ensuring the timely delivery of products through efficient supply chain management. As a Supply Chain Manager, you will be a driving force in enhancing operational efficiency, managing inventory, and contributing to Amazon's commitment to delivering exceptional customer experiences.",
+      "positionOverview": {
+        "description": "As a Supply Chain Manager, you will play a crucial role in optimizing and streamlining our supply chain processes. Collaborate closely with cross-functional teams to manage inventory, ensure timely delivery, and implement effective supply chain strategies. Your role demands strong organizational and communication skills, along with a deep understanding of logistics and supply chain operations."
+      },
+      "responsibilities": [
+        "Optimize supply chain processes to enhance operational efficiency.",
+        "Manage inventory levels to meet demand and minimize excess stock.",
+        "Ensure timely and efficient delivery of products to customers.",
+        "Collaborate with suppliers and logistics partners to improve overall supply chain performance.",
+        "Contribute to the continuous improvement of supply chain strategies."
+      ],
+      "qualifications": {
+        "skills": [
+          "Bachelor's degree in Logistics, Supply Chain Management, or a related field.",
+          "Experience in supply chain operations.",
+          "Strong organizational and communication skills.",
+          "Analytical mindset with a focus on problem-solving."
+        ]
+      },
+      "educationAndExperience": {
+        "requirements": "Bachelor’s degree in Logistics, Supply Chain Management, or a related field.",
+        "experience": "5+ years of professional experience in supply chain management."
+      },
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to the optimization of supply chain processes at Amazon.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about optimizing supply chain processes and possess the required skills and vision, we invite you to apply and be a part of redefining logistics excellence with us."
+    }
+  },
+  {
+    "id": 5,
+    "platform": "Facebook",
+    "sector": "Social Media",
+    "title": "Social Media Manager",
+    "description": "Develop and implement social media strategies, create engaging content, and analyze performance metrics.",
+    "requirements": ["Bachelor's degree in Marketing, Communications, or related field", "Experience in social media management", "Creative thinking and excellent communication skills"],
+    "location": "Menlo Park, CA",
+    "salary": "$70,000 - $90,000 per year",
+    "post_time": "6 hour ago",
+    "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+    "aboutUs": {
+      "description": "At the forefront of shaping digital presence, we are a key player in the social media landscape. Join our team at Facebook, where we are dedicated to creating engaging content and implementing effective social media strategies. As a Social Media Manager, you will be a driving force in developing and executing impactful social media campaigns, contributing to Facebook's commitment to connecting people and fostering community.",
+      "positionOverview": {
+        "description": "As a Social Media Manager, you will play a pivotal role in shaping the digital narrative of our brand. Collaborate closely with cross-functional teams to develop and implement creative social media strategies, create engaging content, and analyze performance metrics. Your role demands creative thinking, excellent communication skills, and a passion for connecting with audiences through social media."
+      },
+      "responsibilities": [
+        "Develop and implement creative social media strategies to enhance brand presence.",
+        "Create engaging and shareable content across various social media platforms.",
+        "Analyze performance metrics and derive insights to optimize social media campaigns.",
+        "Collaborate with internal and external teams to align social media efforts with overall marketing goals.",
+        "Stay updated on social media trends and emerging technologies to drive continuous improvement."
+      ],
+      "qualifications": {
+        "skills": [
+          "Bachelor's degree in Marketing, Communications, or a related field.",
+          "Experience in social media management.",
+          "Creative thinking and excellent communication skills.",
+          "Ability to analyze and interpret social media metrics."
+        ]
+      },
+      "educationAndExperience": {
+        "requirements": "Bachelor’s degree in Marketing, Communications, or a related field.",
+        "experience": "3+ years of professional experience in social media management."
+      },
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to shape the digital presence of a leading social media platform.",
+        "Collaborative and creative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about shaping digital narratives and possess the required skills and vision, we invite you to apply and be a part of defining the future of social media at Facebook."
+    }
+  },
+  {
+    "id": 6,
+    "platform": "Apple",
+    "sector": "Hardware Engineering",
+    "title": "Hardware Engineer",
+    "description": "Design and develop hardware components for electronic devices, conduct tests, and collaborate with cross-functional teams.",
+    "requirements": ["Bachelor's or Master's degree in Electrical Engineering or related field", "Experience in hardware design", "Knowledge of CAD tools"],
+    "location": "Cupertino, CA",
+    "salary": "$95,000 - $120,000 per year",
+    "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+    "post_time": "2 days ago",
+    "aboutUs": {
+      "description": "At the forefront of hardware innovation, we are a key player in the field of hardware engineering. Join our team at Apple, where we are dedicated to designing and developing cutting-edge hardware components for electronic devices. As a Hardware Engineer, you will be a driving force in conducting tests, collaborating with cross-functional teams, and contributing to Apple's commitment to delivering exceptional and groundbreaking technology.",
+      "positionOverview": {
+        "description": "As a Hardware Engineer, you will play a crucial role in the design and development of hardware components for our electronic devices. Collaborate closely with cross-functional teams to conceptualize, conduct tests, and implement innovative hardware solutions. Your role demands expertise in hardware design, knowledge of CAD tools, and a passion for pushing the boundaries of technology."
+      },
+      "responsibilities": [
+        "Design and develop innovative hardware components for electronic devices.",
+        "Conduct tests and experiments to ensure the reliability and performance of hardware solutions.",
+        "Collaborate with cross-functional teams, including software engineers and product designers.",
+        "Stay updated on hardware trends and emerging technologies to drive continuous improvement.",
+        "Contribute to the development of groundbreaking technology for Apple's electronic devices."
+      ],
+      "qualifications": {
+        "skills": [
+          "Bachelor's or Master's degree in Electrical Engineering or a related field.",
+          "Experience in hardware design.",
+          "Knowledge of CAD tools for designing and testing hardware components.",
+          "Strong problem-solving and analytical skills."
+        ]
+      },
+      "educationAndExperience": {
+        "requirements": "Bachelor’s or Master’s degree in Electrical Engineering or a related field.",
+        "experience": "3+ years of professional experience in hardware engineering."
+      },
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to groundbreaking hardware technology at Apple.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about pushing the boundaries of hardware technology and possess the required skills and vision, we invite you to apply and be a part of shaping the future of electronic devices with Apple."
+    }
+  }
+]
